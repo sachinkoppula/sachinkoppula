@@ -1,6 +1,6 @@
 # 💻 Sachin Kumar Koppula
 
-![GitHub Banner](https://user-images.githubusercontent.com/your-banner-image.png)
+![GitHub Banner](https://github.com/user-attachments/assets/2f2d58b0-f23b-4c1e-93d2-5f8d296b8972)
 
 ## 🚀 About Me
 🔹 Software Development Engineer specializing in large-scale systems and performance optimization.  
