@@ -10,7 +10,7 @@
 
 ## 📚 Education
 🎓 **Master’s in Computer Science** | University at Buffalo (2024)  
-🎓 **Bachelor’s in Computer Science and Engineering** | SR Engineering College (2022)  
+🎓 **Bachelor’s in Computer Science and Engineering** | SR Engineering College 
 
 ## 💼 Work Experience
 ### Research Assistant | University at Buffalo *(Jan 2024 – Dec 2024)*
